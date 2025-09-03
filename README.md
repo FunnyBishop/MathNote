@@ -113,9 +113,6 @@ buildozer android debug
 
 3. 对于复杂的绘图操作，建议在Windows上进行开发和测试，确保功能正常后再打包为安卓应用程序
 
-## 许可证
-
-本项目采用MIT许可证，您可以自由使用、修改和分发。
 ## 贡献
 滑稽主教（FunnyBishop）
 您可以通过提交Pull Request的方式贡献代码。
