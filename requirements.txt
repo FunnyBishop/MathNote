@@ -1,0 +1,8 @@
+PyQt5
+python-for-android
+pix2text
+scipy
+numpy
+matplotlib
+sympy
+latex2sympy2
